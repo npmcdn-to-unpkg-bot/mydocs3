@@ -16,7 +16,7 @@
 
 ## 安装
 
-使用`npm`包管理器，如果不想用，可以从<https://npmcdn.com/redux/>直接下载代码文件。
+使用`npm`包管理器，如果不想用，可以从<https://unpkg.com/redux/>直接下载代码文件。
 
     npm install --save redux
 

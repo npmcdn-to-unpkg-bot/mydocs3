@@ -655,14 +655,14 @@ npm获取配置信息，来自`六个来源，优先级如下，由高到低`：
 
 
 
-## npmcdn
+## unpkg
 
-> `npmcdn` is a fast, global content-delivery network for stuff that is published to npm. 
+> `unpkg` is a fast, global content-delivery network for stuff that is published to npm. 
 
- <https://npmcdn.com/>
+ <https://unpkg.com/>
 
 路径格式为：
 
-    https://npmcdn.com/package@version/file
+    https://unpkg.com/package@version/file
 
 
